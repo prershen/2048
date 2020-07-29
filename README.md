@@ -1,2 +1,2 @@
 # 2048
-A shorted version of 2048 implemented for 256
+A different version of 2048 implemented for 256
